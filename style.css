@@ -1,0 +1,197 @@
+
+body {
+    font-size: 15pt;
+   background-image: url(atas.jpg);
+    background-color: black;
+    background-repeat: repeat-x;
+}
+.nav {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  background-color: black;
+  z-index: 8;
+  position: fixed;
+  border: 1px solid mediumpurple;
+}
+
+.nav .tiktok a {
+    color: white;
+    display: block;
+   margin-left: 80%;
+    margin-right: 120px;
+    margin-top: -46px;
+    width: 35px;
+    background-color: purple;
+    text-indent: -8000px;
+   height: 35px;
+    background-image: url(tik.jpg);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.nav .instagram a {
+  color: white;
+  display: block;
+  margin-left: 90%;
+  margin-top: -34px;
+  background-color: pink;
+  width: 35px;
+  text-indent: -8000000px;
+  background-image: url(1000079679-removebg-preview.png);
+background-size: 60%;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+position: relative;
+}
+
+.nav h1{
+  font-size: 20px;
+  text-align: left;
+  color: mediumpurple;
+margin-top: -0px;
+margin-top: 4px;
+
+}
+
+.nav h1 span{
+  color: white;
+}
+
+.nama h1{
+   font-family: "Rowdies", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: underline;
+  color: white;
+  text-shadow: 2px 2px 2px cadetblue;
+  margin-top: 50px;
+}
+
+
+
+
+
+.pengenalan p{
+  margin-right: 50%;
+  font-size: 14px;
+  font-weight: 50%;
+    font-family: "Comic Relief", system-ui;
+  font-style: normal;
+  line-height: 110%;
+  color: white;
+  display: inline-block;
+  height: 140px;
+overflow: scroll;
+box-shadow: 2px 2px 2px white;
+
+}
+
+.pengenalan p:hover{
+  color: mediumpurple;
+  transition: 2s ease;
+  text-shadow: 1px 1px 0.1px white;
+}
+.poto img{
+  width: 30%;
+  margin-left: 58%;
+  height: 20%;
+margin-top: -35%;
+display: block;
+box-shadow: 0px 0px 0px 2px white;
+position: absolute;
+background-size: cover;
+}
+.data h1{
+  font-size: 25px;
+  color: white;
+   font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: underline;
+text-shadow: 2px 2px 2px cadetblue;
+}
+
+.data {
+  color: white;
+  font-family: "Comic Relief", system-ui;
+border: 1px solid white;
+
+  background-image: url(miring.jpg);
+background-repeat: repeat-y;
+width: 50%;
+}
+
+.datak{
+    font-family: "Comic Relief", system-ui;
+border: 1px solid white;
+color: white;
+  background-image: url(interesting-gradient-design-purple-black-free-photo.jpg);
+
+width: 45%;
+float: right;
+text-align: right;
+line-height: 24px;
+}
+
+.datak H1{
+    font-size: 25px;
+  color: white;
+   font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: underline;
+text-shadow: 2px 2px 2px cadetblue;
+text-align: right;
+}
+
+
+
+.contak{
+  background-color: grey;
+margin-top: -2%;
+margin-bottom: -4%;
+margin-left: -1%;
+margin-right: -1%;
+border-radius: 10px;
+border: 1px solid white;
+  z-index: 1000000000vh;
+ display: block;
+ position: relative;
+}
+
+
+
+.contak h1{
+
+  font-size: 20px;
+color: white;
+font-family: "Fjalla One",
+sans-serif;
+font-weight: 400;
+text-align: center;
+text-decoration: underline;
+}
+
+.contak a{
+  color: black;
+  text-decoration: none;
+ display: inline-flex;
+ background-color: whitesmoke;
+left: 0;
+right: 0;
+ box-shadow: 2px 2px 2px black;
+
+}
+
+.contak a:hover{
+  color: black;
+  text-shadow: 0px 0px 2px cadetblue;
+transition: 0.5s ease-in-out;
+  box-shadow: 3px 3px 10px black;
+}
