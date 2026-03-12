@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io" />
   </a>
-  <!-- Instagram (SUDAH TERPASANG) -->
+  <!-- Instagram (SUDAH TERPASANG LINK ANDA) -->
   <a href="https://www.instagram.com/fahrizabranding?igsh=MTQ1ODB5azg1Zm5qaw==">
     <img src="https://img.shields.io" />
   </a>
