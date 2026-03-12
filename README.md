@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io" />
   </a>
-  <!-- Instagram (SUDAH TERPASANG LINK ANDA) -->
-  <a href="https://www.instagram.com/fahrizabranding?igsh=MTQ1ODB5azg1Zm5qaw==">
+  <!-- Instagram (LINK SUDAH TERPASANG) -->
+  <a href="https://www.instagram.com">
     <img src="https://img.shields.io" />
   </a>
   <!-- Portfolio -->
@@ -32,6 +32,7 @@
 ### 🛠 Tech Stack
 
 <p align="left">
+  <!-- Ikon HTML, CSS, JS yang rapi -->
   <img src="https://skillicons.dev" />
 </p>
 
@@ -51,6 +52,7 @@
 - 📖 I enjoy reading about Javascript, Economics, and Artificial Intelligence.
 
 <p align="center">
+  <!-- Efek gelombang footer yang sudah diperbaiki -->
   <img src="https://capsule-render.vercel.app" />
 </p>
 
