@@ -1,58 +1,59 @@
-# Hi there, I'm Fahriza Ilhami Pasha! 👋
+# Hi there, I'm Fahriza Ilhami Pasha 👋
 
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io" />
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
   </a>
-  <!-- Instagram (LINK SUDAH TERPASANG) -->
-  <a href="https://www.instagram.com">
-    <img src="https://github.com/FahrizaIlhamiDevlens/FahrizailhamiDevlens/blob/main/1000079679-removebg-preview.png" />
+  
+  <a href="https://www.instagram.com/yourusername">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/>
   </a>
-  <!-- Portfolio -->
+  
   <a href="https://fahrizailhami-devlens-sy7c.vercel.app">
-    <img src="https://img.shields.io" />
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="35"/>
   </a>
-  <!-- Email -->
+  
   <a href="mailto:fahrizailhmip@gmail.com">
-    <img src="https://img.shields.io" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/>
   </a>
 </p>
 
-### 👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **DevLens**
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, Public Speaking, Money Management**
-- 📫 How to reach me: [fahrizailhmip@gmail.com](mailto:fahrizailhmip@gmail.com)
+- 📫 Reach me: **fahrizailhmip@gmail.com**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
-  <!-- Ikon HTML, CSS, JS yang rapi -->
-  <img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app" />
-  <img width="48%" src="https://github-readme-stats.vercel.app" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FahrizaIlhamiDevlens&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahrizaIlhamiDevlens&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-- ⚡ I love Coding, Traveling, and Sleeping.
-- 📖 I enjoy reading about Javascript, Economics, and Artificial Intelligence.
+## ⚡ Fun Fact
+
+- ⚡ I love Coding, Traveling, and Sleeping
+- 📖 I enjoy reading about **JavaScript, Economics, and Artificial Intelligence**
+
+---
 
 <p align="center">
-  <!-- Efek gelombang footer yang sudah diperbaiki -->
-  <img src="https://capsule-render.vercel.app" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:6366f1&section=footer"/>
 </p>
-
