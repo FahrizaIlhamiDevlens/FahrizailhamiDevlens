@@ -7,7 +7,7 @@
   </a>
   <!-- Instagram (LINK SUDAH TERPASANG) -->
   <a href="https://www.instagram.com">
-    <img src="https://img.shields.io" />
+    <img src="https://github.com/FahrizaIlhamiDevlens/FahrizailhamiDevlens/blob/main/1000079679-removebg-preview.png" />
   </a>
   <!-- Portfolio -->
   <a href="https://fahrizailhami-devlens-sy7c.vercel.app">
