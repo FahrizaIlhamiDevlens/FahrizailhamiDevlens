@@ -1,7 +1,7 @@
 # Hi there, I'm Fahriza Ilhami Pasha 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/fahrizabranding">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
   </a>
   
