@@ -5,7 +5,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
   </a>
   
-  <a href="https://www.instagram.com/yourusername">
+  <a href="https://www.instagram.com/fahrizabranding">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/>
   </a>
   
